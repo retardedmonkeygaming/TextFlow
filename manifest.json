@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "TextFlow",
+    "version": "1.0",
+    "description": "A browser extension that cleans and fixes messy text with just *one click*.",
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "TextFlow"
+    },
+    "permissions": []
+}
